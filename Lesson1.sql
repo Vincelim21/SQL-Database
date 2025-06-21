@@ -1,4 +1,4 @@
-SQL FOR DATA ANALYSIS - UDEMY
+/* SQL FOR DATA ANALYSIS - UDEMY
 
 ************************************ LIMITs ************************************
 /*
